@@ -12,9 +12,9 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'tKs1Tk5UseXzOntqiytPUROVsdPWuYYYTe2ANwuHR69rrckn', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [166956417], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Dom Logo', // Replaces Xively logo in the header
+	var defaultKey		= 'HJLVW4vWo8U1NYGFaOoAy8x3mpD50nsCNL16QCdTkGxwVCr0', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1896663994], // Comma separated array of Xively Feed ID numbers
+		applicationName	= 'DEC METRICS', // Replaces Xively logo in the header
 		dataDuration	= '10', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '0000FF', // CSS HEX value of color to represent data (omit leading #)
